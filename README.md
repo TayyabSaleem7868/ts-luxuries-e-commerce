@@ -1,39 +1,15 @@
-```
-Install dependencies:
-```
+## Getting Started
 
-npm install
+First, run the development server:
 
-```
-or
-
-```
-
-yarn install
-
-```
-
-## Run Development Server
-
-Start the dev server:
-
-```
-
+```bash
 npm run dev
-
-```
-or
-
-```
-
+# or
 yarn dev
-
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-Open your browser and visit:
-
-```
-
-[http://localhost:3000](http://localhost:3000)
-
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
